@@ -2,7 +2,7 @@
 
 This project uses an ATMEGA32 microcontroller which allows its user to open or lock this safe with a password.
 
-Firstly It ask the user to set a password and it stores it in EEPROM which mean it wont be deleted after removing power from the safe.
+Firstly, it ask the user to set a password and it stores it in EEPROM which mean it won't be deleted after removing power from the safe.
 
 ![Screenshot 2023-02-27 222820](https://user-images.githubusercontent.com/119271600/221718113-27566929-876e-4af4-ba0c-64d31242ef11.png)
 
